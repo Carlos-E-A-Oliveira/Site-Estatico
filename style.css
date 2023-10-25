@@ -1,0 +1,16 @@
+#main
+{
+   text-align: center;
+}
+
+#Item
+{
+    display: none;
+    display: block;
+}
+
+#active
+{
+    display: none;
+    display: block;
+}
